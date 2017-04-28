@@ -14,3 +14,6 @@ http://brettterpstra.com/2012/09/15/matrixish-a-bash-script-with-no-practical-ap
 
 <!-- swap last two characters -->
 Ctrl + T
+
+<!-- use this to reset terminal to access new .bash_profile changes w/o quitting and reopening  -->
+source ~/.bash_profile
